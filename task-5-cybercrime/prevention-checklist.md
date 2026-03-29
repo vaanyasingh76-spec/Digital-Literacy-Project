@@ -1,26 +1,36 @@
-## Stay Safe Online Checklist (For College Students in India)
+# Stay Safe Online Checklist (For College Students in India)
 
-# Simple Safety Tips
+##  General Safety Tips
 
--Never share your OTP, UPI PIN, or bank password with anyone, even if they say they are from your bank or a “support team.”
--Always check UPI payment requests properly before approving them. Make sure the name and amount are correct.
--Don’t click on random links sent through WhatsApp, SMS, or email, especially if they look suspicious or too urgent.
--Use strong passwords and try not to reuse the same password for all your accounts.
--Turn on two-factor authentication (2FA) wherever possible for extra safety.
--Only download apps from trusted stores like Google Play Store or Apple App Store.
--Avoid sharing sensitive details like Aadhaar number, OTP, or bank info on unknown websites or calls.
--Always log out of banking or payment apps if you are using someone else’s phone or a shared device.
+- Never share your OTP, UPI PIN, or bank password with anyone, even if they claim to be from a bank or official service.  
 
+- Always carefully check UPI payment requests before approving them. Verify the name and amount properly.  
 
-## UPI & Online Payment Safety 
+- Do not click on unknown or suspicious links sent via WhatsApp, SMS, or email.  
 
--Always carefully check UPI “collect requests” before approving them — scammers often trick users this way.
--If you ever notice a suspicious transaction, act quickly and contact your bank or block the payment immediately.
+- Use strong passwords and avoid using the same password across multiple accounts.  
 
+- Enable two-factor authentication (2FA) for extra protection on important apps.  
 
-## If Something Goes Wrong
+- Download apps only from trusted sources like Google Play Store or Apple App Store.  
 
-If you face any cybercrime or suspicious activity, don’t ignore it. Report it here:
+- Never share sensitive details like Aadhaar number, OTP, or bank information on random websites or calls.  
 
--National Cyber Crime Portal: https://cybercrime.gov.in
-=Cyber Crime Helpline: 1930
+- Always log out from banking or payment apps when using shared or public devices.  
+
+---
+
+##  UPI / Financial Safety Tips
+
+- Always check UPI “collect requests” carefully before approving them. Scammers often misuse this feature.  
+
+- If you notice any suspicious transaction, immediately contact your bank or block your account.  
+
+---
+
+##  Reporting Cybercrime
+
+If you face or notice any cybercrime, report it immediately:
+
+- National Cyber Crime Portal: https://cybercrime.gov.in  
+- Cyber Crime Helpline: 1930  
