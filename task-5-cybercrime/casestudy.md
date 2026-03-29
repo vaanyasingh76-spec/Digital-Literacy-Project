@@ -1,3 +1,7 @@
+ # Case Study: Cyberbullying
+
+
+
 Cyberbullying is a type of cybercrime where a person is repeatedly harassed, threatened, embarrassed, or targeted using digital platforms such as social media apps, messaging services, gaming chats, or even emails. It is different from physical bullying because it does not stop at a specific place or time — it follows the victim everywhere through their phone or computer, which makes it more emotionally draining and stressful.
 
 Cyberbullying usually starts in small ways, like rude comments on posts, mean messages, or jokes that are actually hurtful. In many cases, the attacker may create fake or anonymous accounts to avoid being identified. After that, they may start spreading rumours, editing or sharing personal photos without permission, or posting embarrassing content to publicly humiliate the victim. Sometimes, it becomes a group activity where others also join in, either to support the attacker or simply for entertainment, without realising the harm it causes. Most of the time, victims are targeted because of their appearance, personality, academic performance, or even personal disagreements that escalate online.
