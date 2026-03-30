@@ -4,6 +4,7 @@
 
 * **Name:** Vaanya Singh
 * **Branch:** AIML
+* **Year:** First Year
 
 ---
 
