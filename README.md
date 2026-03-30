@@ -44,17 +44,6 @@ The questions focus on:
 
 👉 *https://forms.gle/Jc3SywqULTGeP2Un8*
 
----
-
-## 📊 Screenshots
-
-### 📸 Google Form – Responses View
-
-**File:** `task-3-platforms/form_responses.png`
-
-### 📸 Google Sheet – Response Data
-
-**File:** `task-3-platforms/google_sheet.png`
 
 ---
 
@@ -65,14 +54,7 @@ The questions focus on:
 3. Responses are automatically stored in Google Sheets
 4. Data can be viewed and analyzed in real time
 
----
 
-## 📚 Learnings
-
-* Learned how to create structured online quizzes
-* Understood how to collect and manage data digitally
-* Improved awareness of online safety practices
-* Gained hands-on experience with Google Forms and Sheets
 
 ---
 
