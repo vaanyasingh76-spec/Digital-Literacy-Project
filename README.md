@@ -26,6 +26,28 @@ Overall, it prepares us to use digital resources more effectively in both studie
 
 ---
 
+## Key Learnings
+Understood the importance of digital literacy in academics and everyday life
+Improved basic programming skills through beginner-level Python practice
+Learned how to create and manage Google Forms and analyse responses using Google Sheets
+Gained experience in writing professional emails with proper tone and structure
+Developed awareness about cyber safety and cyberbullying risks
+Understood how to organise work using GitHub repositories and structured folders
+Improved communication, presentation, and attention to detail
+
+---
+
+## Benefits of the Project
+Helped build confidence in using digital tools for learning and collaboration
+Improved problem-solving and logical thinking skills through coding practice
+Enhanced professional communication skills useful for academic and career growth
+Increased awareness about online safety and responsible digital behaviour
+Provided hands-on experience with real-world digital platforms used in education and industry
+Encouraged better organisation and structured documentation of work
+Helped develop a more responsible and mindful approach to online interactions
+
+---
+
 ##  Task 3: Platforms – Google Forms Quiz
 
 ###  Digital Literacy Awareness Quiz
@@ -47,7 +69,7 @@ The questions focus on:
 
 
 ---
-##  How It Works
+##  How the quiz Works?
 
 1. The quiz is created using Google Forms
 2. Users submit responses through the form
