@@ -17,34 +17,38 @@ The goal is to explore how digital tools can be used in real-life academic situa
 ---
 
 ## Features of the Digital Literacy Project
-This project helps in understanding how to use the internet safely and responsibly in daily life.
-It includes practical activities that make learning more hands-on instead of just theory.
-It builds awareness about important topics like online safety, privacy, and identifying fake information.
-It shows how digital tools can be used for real academic work like surveys, data collection, and analysis.
-It also improves confidence in using different platforms and technologies.
+
+-This project helps in understanding how to use the internet safely and responsibly in daily life.
+-It includes practical activities that make learning more hands-on instead of just theory.
+-It builds awareness about important topics like online safety, privacy, and identifying fake information.
+-It shows how digital tools can be used for real academic work like surveys, data collection, and analysis.
+=It also improves confidence in using different platforms and technologies.
+
 Overall, it prepares us to use digital resources more effectively in both studies and everyday situations.
 
 ---
 
-## Key Learnings
-Understood the importance of digital literacy in academics and everyday life
-Improved basic programming skills through beginner-level Python practice
-Learned how to create and manage Google Forms and analyse responses using Google Sheets
-Gained experience in writing professional emails with proper tone and structure
-Developed awareness about cyber safety and cyberbullying risks
-Understood how to organise work using GitHub repositories and structured folders
-Improved communication, presentation, and attention to detail
+#  Key Learnings
+
+- Understood the importance of digital literacy in academics and everyday life  
+- Improved basic programming skills through beginner-level Python practice  
+- Learned how to create and manage Google Forms and analyse responses using Google Sheets  
+- Gained experience in writing professional emails with proper tone and structure  
+- Developed awareness about cyber safety and cyberbullying risks  
+- Learned how to organise work using GitHub repositories and structured folders  
+- Improved communication, presentation, and attention to detail  
 
 ---
 
-## Benefits of the Project
-Helped build confidence in using digital tools for learning and collaboration
-Improved problem-solving and logical thinking skills through coding practice
-Enhanced professional communication skills useful for academic and career growth
-Increased awareness about online safety and responsible digital behaviour
-Provided hands-on experience with real-world digital platforms used in education and industry
-Encouraged better organisation and structured documentation of work
-Helped develop a more responsible and mindful approach to online interactions
+#  Benefits of the Project
+
+- Helped build confidence in using digital tools for learning and collaboration  
+- Improved problem-solving and logical thinking skills through coding practice  
+- Enhanced professional communication skills useful for academics and career growth  
+- Increased awareness about online safety and responsible digital behaviour  
+- Provided hands-on experience with real-world digital platforms  
+- Encouraged better organisation of files and structured documentation  
+- Helped develop a responsible and mindful approach to online interactions  
 
 ---
 
