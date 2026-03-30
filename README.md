@@ -16,15 +16,17 @@ The goal is to explore how digital tools can be used in real-life academic situa
 
 ---
 
-## Features of the Digital Literacy Project
+#  Features of the Project
 
--This project helps in understanding how to use the internet safely and responsibly in daily life.
--It includes practical activities that make learning more hands-on instead of just theory.
--It builds awareness about important topics like online safety, privacy, and identifying fake information.
--It shows how digital tools can be used for real academic work like surveys, data collection, and analysis.
-=It also improves confidence in using different platforms and technologies.
-
-Overall, it prepares us to use digital resources more effectively in both studies and everyday situations.
+- Includes beginner-level coding practice using Python  
+- Contains a Google Forms Digital Literacy Awareness Quiz  
+- Uses Google Sheets for collecting and analysing responses  
+- Includes professional email writing tasks (extension request + internship email)  
+- Contains a cyberbullying case study based on real-life scenarios  
+- Includes a Stay Safe Online cybercrime prevention checklist  
+- Organized using GitHub repository with proper folder structure  
+- Includes digital literacy infographic created using Canva  
+- Covers multiple digital skills like coding, communication, and cyber safety  
 
 ---
 
