@@ -26,9 +26,9 @@ Overall, it prepares us to use digital resources more effectively in both studie
 
 ---
 
-## 📌 Task 3: Platforms – Google Forms Quiz
+##  Task 3: Platforms – Google Forms Quiz
 
-### 🧠 Digital Literacy Awareness Quiz
+###  Digital Literacy Awareness Quiz
 
 I created a Google Form quiz to assess digital literacy awareness among my batchmates. The quiz contains **exactly 5 questions**, including both **multiple-choice and short-answer types**.
 
@@ -41,14 +41,13 @@ The questions focus on:
 
 ---
 
-## 🔗 Google Form Link
+##  Google Form Link
 
-👉 *https://forms.gle/Jc3SywqULTGeP2Un8*
+ *https://forms.gle/Jc3SywqULTGeP2Un8*
 
 
 ---
-
-## ⚙️ How It Works
+##  How It Works
 
 1. The quiz is created using Google Forms
 2. Users submit responses through the form
@@ -59,12 +58,3 @@ The questions focus on:
 
 ---
 
-## 📝 Project Report
-
-For this task, I used Google Forms and Google Sheets to create a Digital Literacy Awareness Quiz. The objective was to understand how digital platforms can be used for efficient data collection and management.
-
-The quiz included five questions covering cybersecurity, digital behavior, and safe online practices. After designing the form, I linked it to Google Sheets to automatically store responses.
-
-This task helped me learn how to create surveys, analyze responses, and use digital tools effectively. These skills are useful for academic purposes like research, feedback collection, and data organization.
-
-Overall, this project improved my understanding of digital platforms and their practical applications.
